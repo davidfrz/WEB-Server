@@ -38,7 +38,7 @@
 
 （id自增懂的都懂）
 
-![image-20220205200111643](\img\1.png)
+![](img\1.png)
 
 
 
@@ -48,14 +48,14 @@
 
 xxx.xxx.xx.xxx:8080/mqttLoad/getSinGps?imei=xxx
 
-![image-20220205200435353](\img\2.png)
+![](img\2.png)
 
 #### 获取一段时间内的位置-->xxx.xxx.xx.xxx:8080/mqttLoad/getGps?imei=xxx&sTime=xxx&eTime=xxx
 
 imei=xxx&sTime=xxx&eTime=xxx
 通过get请求传递三个参数（imei，起始时间sTime，终止时间eTime），获取这段时间内的gps信息和上传时间，示例如下
 
-![image-20220205200542085](\img\3.png)
+![](img\3.png)
 
 #### 提醒自己的点
 
