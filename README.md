@@ -38,7 +38,7 @@
 
 （id自增懂的都懂
 
-![1](img\1.png)
+![1](img/1.png)
 
 
 
@@ -48,7 +48,7 @@
 
 xxx.xxx.xx.xxx:8080/mqttLoad/getSinGps?imei=xxx
 
-![2](img\2.png)
+![2](img/2.png)
 
 #### 获取一段时间内的位置-->xxx.xxx.xx.xxx:8080/mqttLoad/getGps?imei=xxx&sTime=xxx&eTime=xxx
 
@@ -59,7 +59,7 @@ imei=xxx&sTime=xxx&eTime=xxx
 
 其实这些搭建服务器并不难，复杂的是mqtt作为前端移动设备中间件的问题，后面记得提醒自己上传mqtt等相关的东西...
 =======
-![3](img\3.png)
+![3](img/3.png)
 
 #### 提醒自己的点
 
